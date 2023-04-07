@@ -1,5 +1,5 @@
 Aprendiendo git
-aprendiendo git avanzado
+
 <<<<<<< HEAD
 =======
 introduciendo mi primer cambio a codigo de github
