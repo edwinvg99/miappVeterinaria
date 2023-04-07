@@ -1,2 +1,2 @@
 .env
-node_modules/
+#Tambien le puedo poner para que ignore carpetas con su url
