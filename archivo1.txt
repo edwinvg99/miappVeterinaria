@@ -1,2 +1,6 @@
 Aprendiendo git
 aprendiendo git avanzado
+<<<<<<< HEAD
+=======
+introduciendo mi primer cambio a codigo de github
+>>>>>>> 113b43285d6d93d0acef0d370c9796038e7f2635
